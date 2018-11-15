@@ -1,5 +1,3 @@
-
-
 {
   "bootstrap_expect": 3,
   "client_addr": "0.0.0.0",
@@ -12,15 +10,10 @@
       "only_passing": true
   },
   "enable_syslog": true,
-  "encrypt": "goplCZgdmOFMZ2Q43To0jw==",
+  "encrypt": "I+gEqXRdWOgRxjW/xL0OBw==",
   "leave_on_terminate": true,
   "log_level": "INFO",
   "rejoin_after_leave": true,
   "server": true,
-  "start_join": [
-      "172.20.20.31",
-      "172.20.20.32",
-      "172.20.20.33"
-  ],
   "ui": true
 }
